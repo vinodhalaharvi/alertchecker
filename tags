@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+Get	get.py	/^class Get(object):$/;"	c
+GetAlertDefinitions	getAlertDefinitions.py	/^class GetAlertDefinitions(object):$/;"	c
+__init__	get.py	/^	def __init__(self, url):$/;"	m	class:Get
+__init__	getAlertDefinitions.py	/^	def __init__(self, ):$/;"	m	class:GetAlertDefinitions
+burnTime	alertChecker.py	/^def burnTime(k):$/;"	f
+get	get.py	/^	def get(self, _url=None):$/;"	m	class:Get
+getTuple	getAlertDefinitions.py	/^	def getTuple(self):$/;"	m	class:GetAlertDefinitions
+runSQL	getAlertDefinitions.py	/^	def runSQL(self):$/;"	m	class:GetAlertDefinitions
